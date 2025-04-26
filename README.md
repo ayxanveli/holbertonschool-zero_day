@@ -1,2 +1,1 @@
-# holbertonschool-zero_day
-asaf
+My first readme
